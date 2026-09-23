@@ -32,3 +32,4 @@ a:focus-visible,button:focus-visible{outline:2px solid #d9bb84;outline-offset:3p
 @media (max-width:1023px){.nav-bar{height:64px}.nav-logo img{height:30px}.nav-links,.nav-ig{display:none}.nav-book .lg{display:none}.nav-book .sm{display:inline}.nav-toggle{display:flex}}
 @media (min-width:1024px){.nav-menu{display:none!important}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+@media (max-width:767px){.hero-dates-top{display:flex!important}.hero-dates-bottom{display:none!important}.hero-logo{width:280px!important}a.hero-book{background:rgba(217,187,132,.72)!important;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)}}
