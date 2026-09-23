@@ -33,3 +33,4 @@ a:focus-visible,button:focus-visible{outline:2px solid #d9bb84;outline-offset:3p
 @media (min-width:1024px){.nav-menu{display:none!important}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 @media (max-width:767px){.hero-dates-top{display:flex!important}.hero-dates-bottom{display:none!important}.hero-logo{width:280px!important}a.hero-book{background:rgba(217,187,132,.72)!important;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)}}
+@media (max-width:767px){.hero-bottom{gap:18px!important}.hero-price{display:none!important}a.hero-btn{height:44px!important;padding:0 16px!important;font-size:11px!important;letter-spacing:.16em!important;gap:8px!important}}
