@@ -12,7 +12,7 @@ Static website for *The Story of Joseph*, presented by Boatseed at Shell Hall, M
 Import this repository in Vercel with framework preset **Other**, no build command, output directory `.` (root). Every push to `main` redeploys.
 
 ## Domain
-Share-preview tags currently point at `https://the-story-of-joseph.vercel.app`. When a custom domain is connected, replace that URL in the `og:`, `twitter:` and `canonical` tags of each page.
+Share-preview tags currently point at `https://thestoryofjoseph.vercel.app`. When a custom domain is connected, replace that URL in the `og:`, `twitter:` and `canonical` tags of each page.
 
 ## External services
 Tickets: Eventporte · Fonts: Google Fonts · Map: Google Maps embed · Social: Instagram @boatseedproductions
